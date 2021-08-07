@@ -1,0 +1,10 @@
+D:\ele\C#\character_set\character_set\bin\Debug\character_set.exe.config
+D:\ele\C#\character_set\character_set\bin\Debug\character_set.exe
+D:\ele\C#\character_set\character_set\bin\Debug\character_set.pdb
+D:\ele\C#\character_set\character_set\obj\Debug\character_set.csprojResolveAssemblyReference.cache
+D:\ele\C#\character_set\character_set\obj\Debug\character_set.Properties.Resources.resources
+D:\ele\C#\character_set\character_set\obj\Debug\character_set.csproj.GenerateResource.Cache
+D:\ele\C#\character_set\character_set\obj\Debug\character_set.exe
+D:\ele\C#\character_set\character_set\obj\Debug\character_set.pdb
+D:\ele\C#\character_set\character_set\obj\Debug\character_set.characterset.resources
+D:\ele\c#\character_set\character_set\obj\Debug\character_set.csproj.CoreCompileInputs.cache
